@@ -15,10 +15,10 @@
 >php artisan key:generate
 
 ### Create an empty database for our application
->Create an empty database for your project using the mysql mariadb
+>buat database kosong dengan nama arkademy atau bisa pakek arkademy.sql
 >
 ### In the .env file, add database information to allow Laravel to connect to the database
->We will want to allow Laravel to connect to the database that you just created in the previous step. To do this, we must add the connection credentials in the .env file and Laravel will handle the connection from there.
+>setting .env
 
 >DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
