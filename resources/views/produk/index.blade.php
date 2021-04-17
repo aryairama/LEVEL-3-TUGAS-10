@@ -32,8 +32,8 @@
                             <tr>
                                 <td>{{ $loop->index+1 }}</td>
                                 <td>{{ $produk->nama_produk }}</td>
-                                <td>{{ $produk->harga }}</td>
                                 <td>{{ $produk->keterangan}}</td>
+                                <td>{{ $produk->harga }}</td>
                                 <td>{{ $produk->jumlah }}</td>
                                 <td><button class="btn btn-danger"
                                         onclick="deleteForm({{ $produk->id_produk }})">Hapus</button>
