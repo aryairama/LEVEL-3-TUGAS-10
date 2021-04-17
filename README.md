@@ -32,7 +32,7 @@ DB_PASSWORD=
 >
 
 ### Home
-![img1](https://github.com/aryairama/LEVEL-3-TUGAS-10/blob/main/public/img/home.jpg?raw=true)
+![img1](https://github.com/aryairama/LEVEL-3-TUGAS-10/blob/main/public/img/home_home.jpg?raw=true)
 
 ### Add Produk
 ![img2](https://github.com/aryairama/LEVEL-3-TUGAS-10/blob/main/public/img/tambah.jpg?raw=true)
